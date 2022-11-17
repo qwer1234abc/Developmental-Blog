@@ -1,7 +1,5 @@
 # Developmental-Blog
-
 To record what I have learnt weekly in ID
-
 ## Week 1: Introduction to Web Development
 
 ## Week 2: Semantics & CSS
